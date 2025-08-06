@@ -1,5 +1,15 @@
-## Hi there 👋
+# 👋 Hi! I'm ExtremeKrish.
+self-taught code hobbyist.
 
+<a href="https://github.com/ExtremeKrish"><img src="https://komarev.com/ghpvc/?username=ExtremeKrish&label=Profile%20views&color=0e75b6&style=flat" alt="ExtremeKrish" /></a>
+
+## 💻 My Works
+
+I've been programming since I was a kid at elementary school! Here are some of what I made :)
+
+### 🤔 Thought-provoking ideas
+
+Some of my interesting ideas waiting to be realized or continued.
 <!--
 **ExtremeKrish/ExtremeKrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
